@@ -27,3 +27,19 @@ ul {
   border-left: 3px solid #333;
 }
 
+.proyectos {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.proyecto {
+  background: #f9f9f9;
+  padding: 15px;
+  border-left: 3px solid #007acc;
+  border-radius: 5px;
+}
+.proyecto h3 {
+  margin-top: 0;
+  color: #007acc;
+}
+
