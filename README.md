@@ -16,3 +16,6 @@ Lucio Luke Landero - Estudiante de Desarrollo Web
 ## Fecha
 9/13/2025
 
+
+## Version
+v2.0 - Agregada seccion de proyectos
